@@ -22,9 +22,9 @@ new version of repo
        
        In addition, I would recommend setting the campaign goal to $4,999.  Previous play campaigns had seen the highest success rate in the dollar range of $0-4,999, with an average rate of success at 74.5%.  The chart below shows the trends based on goal amounts.
 
+![Outcomes_vs_ Goals](Outcomes_vs_ Goals.png)
 
-	
-	### Challenges and Difficulties Encountered	
+### Challenges and Difficulties Encountered	
 
        While performing the analysis a challenge that I came across was structuring the function to filter the number of successful campaigns relative to their goals.  I overcame this by researching further how to correctly formulate that I am looking for amounts that are less than, greater than or equal for the dollar amounts.  Another challenge that I encountered was charting the outcomes based on goals.  When I initially selected the data, all the information was charted incorrectly.  I corrected the chart by figuring out how to select the data and inputting it on the proper axis. 
 
