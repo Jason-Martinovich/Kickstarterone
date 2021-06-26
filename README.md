@@ -15,7 +15,7 @@ new version of repo
 
        Based on the analysis of the information and what Louise was trying to find buried in all the data, she would be most successful launching a campaign during the springtime, between April Ð June.  With the highest possibility of success during May based on previous trends with other plays that have had Kickstarter fundraisers.  The graph below shows previous trends of theater campaigns. 
 
-!(Theater_Outcomes_vs_Launch.png)
+Theater_Outcomes_vs_Launch.png
 
        
 	 ### Analysis of Outcomes Based on Goals
