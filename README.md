@@ -22,7 +22,7 @@ new version of repo
        
        In addition, I would recommend setting the campaign goal to $4,999.  Previous play campaigns had seen the highest success rate in the dollar range of $0-4,999, with an average rate of success at 74.5%.  The chart below shows the trends based on goal amounts.
 
-![Outcomes_vs_ Goals](Outcomes_vs_ Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered	
 
